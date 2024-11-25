@@ -107,3 +107,56 @@ You can also do it like this:
 
 This is the demo vid of [M STEAK] which is a flutter based app.
 
+# 9- Images and figures with link
+
+
+ Scan the QR to see my social media profiles:
+ [QR](C:\Users\DELL\Downloads\syeda_eman_hussain.png) 
+
+Online image:
+ [Python logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikiversity.org%2Fwiki%2FPython&psig=AOvVaw1kikTCR9ZZKpNAK12IRD4D&ust=1732622890053000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiZhLK594kDFQAAAAAdAAAAABAE) 
+
+
+# 10- Commenting markdown line
+ 
+To comment out a line in Markdown, you can use the HTML comment syntax. This is done by wrapping your comment text within and. For example:
+
+<!-- This is a comment -->
+
+Shortcut to comment a md line is Ctrl + /
+
+# 11- Adding code or code block
+
+To print a string use `print('Codanics')`
+
+```
+x = 13
+y = 2
+z = x+y
+print(z)
+```
+
+>```Use ` at the start and one at the end to highlight something.
+Use 3 ` at the start (you can also add at the end but this wont have any effect) to make code block ```
+
+# 12- Adding tables
+
+You can make tables by using | and - 
+
+To change allignment you can add colon in before (to left allign),after (to right allign), or at the both sides (to center allign)
+
+| species | petal_length | sepal_length |
+| :-------: | :------------ | ------------: |
+| virgininica | 18.2 | 19.2 |
+| setosa | 14.2 | 16.2 |
+| versicolor | 19.2 | 19.2 |
+
+# 13- Headings
+
+
+Return to a section or heading.
+Use - for spaces
+
+[Return to top](#1--headings)
+
+# 14 - Installing extensions
