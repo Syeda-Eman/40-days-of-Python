@@ -1,6 +1,6 @@
 # 1- Headings
 How to give headings?
-Use a (#) sign and space to make heading. As the amount of (#) increases the size of the font decreases.
+Use a (#) sign and space to make a heading. As the amount of (#) increases the size of the font decreases.
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -18,8 +18,8 @@ This is a normal text in Markdown.
 
 # 3- Line breaks
 
-This is first line.
-This is second line.
+This is the first line.
+This is the second line.
 
 To give a line break you have to press enter 2 times
 
@@ -31,9 +31,10 @@ In conclusion, you can create line breaks by pressing Enter twice or by using a 
 
 # 4- Combine 2 things
 
-To make heading special text use (> ## )
+To make the heading special text use (> ## )
 
 > ## Heading 2
+### **Heading 3**
 
 # 5- Face of text
 
@@ -60,9 +61,9 @@ ___3 esteric on both sides of the text___
 
 # 6- Bullet points/ Lists
 
-Use (-, *, +) to make bullet points. 2 spaces for sub list and 4 for another sub list.
+Use (-, *, +) to make bullet points. 2 spaces for a sub list and 4 for another sub list.
 
-P.s you dont need to press Enter 2 times 
+P.s You don't need to press Enter 2 times 
 
 - Day 1
 * Day 2
@@ -105,7 +106,7 @@ You can also do it like this:
 
 [M STEAK]: https://youtu.be/2ox6xg8MRb8?si=DDEHylvI3Y_GPOwC
 
-This is the demo vid of [M STEAK] which is a flutter based app.
+This is the demo vid of [M STEAK] which is a flutter-based app.
 
 # 9- Images and figures with link
 
@@ -119,11 +120,11 @@ Online image:
 
 # 10- Commenting markdown line
  
-To comment out a line in Markdown, you can use the HTML comment syntax. This is done by wrapping your comment text within and. For example:
+You can use the HTML comment syntax to comment out a line in Markdown. This is done by wrapping your comment text within it. For example:
 
 <!-- This is a comment -->
 
-Shortcut to comment a md line is Ctrl + /
+The shortcut to comment a md line is Ctrl + /
 
 # 11- Adding code or code block
 
@@ -137,13 +138,13 @@ print(z)
 ```
 
 >```Use ` at the start and one at the end to highlight something.
-Use 3 ` at the start (you can also add at the end but this wont have any effect) to make code block ```
+Use 3 ` at the start (you can also add at the end but this won't have any effect) to make code block ```
 
 # 12- Adding tables
 
 You can make tables by using | and - 
 
-To change allignment you can add colon in before (to left allign),after (to right allign), or at the both sides (to center allign)
+To change alignment you can add a colon in before (to left align), after (to right align), or at both sides (to centre align)
 
 | species | petal_length | sepal_length |
 | :-------: | :------------ | ------------: |
@@ -151,12 +152,21 @@ To change allignment you can add colon in before (to left allign),after (to righ
 | setosa | 14.2 | 16.2 |
 | versicolor | 19.2 | 19.2 |
 
-# 13- Headings
+# 13- Content
 
 
 Return to a section or heading.
 Use - for spaces
 
-[Return to top](#1--headings)
-
-# 14 - Installing extensions
+[1. Headings](#1--headings)\
+[2. Block of words](#2--block-of-words)\
+[3. Line breaks](#3--line-breaks)\
+[4. Combining two things](#4--combine-2-things)\
+[5. Types of text](#5--face-of-text)\
+[6. Bullet points](#6--bullet-points-lists)\
+[7. Line breaks](#7--line-breaks-or-page-breaks)\
+[8. Links and Hyperlinks](#8--links-and-hyperlinks)\
+[9. Images and figures with link](#9--images-and-figures-with-link)\
+[10. Commenting md lines](#10--commenting-markdown-line)\
+[11. Adding code or code block](#11--adding-code-or-code-block)\
+[12. Tables](#12--adding-tables)
